@@ -1,0 +1,15 @@
+# Python 编译文件
+*.pyc
+__pycache__/
+
+# 常见临时文件
+*.log
+
+# 虚拟环境（如果意外生成）
+venv/
+.venv/
+ENV/
+env/
+
+# 忽略txt文件
+*.txt
